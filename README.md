@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Karen Njoki Gitogo</h1>
 <h3 align="center">I am a driven Data Science enthusiast ready to thrive in demanding digital intelligence processing environments. Well-informed and versed in the latest machine learning advancements and statistical methods. I aim at using my skills to exploit cutting-edge data science technology that will in turn establish facts and draw conclusions for modern problems.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/508906826639620993/")
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/508906826639620993/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karennjoki&label=Profile%20views&color=0e75b6&style=flat" alt="karennjoki" /> </p>
 
